@@ -22,5 +22,3 @@ def dialog_user():
     return letter
         
 print(dialog_user())
-
-play()
