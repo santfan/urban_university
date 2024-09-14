@@ -188,7 +188,6 @@ def play():
     word_completion = '_ ' * len(get_word())
     return word_completion
     
-    
 print(get_word())
 print(play())
 print(display_hangman(0))
