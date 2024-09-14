@@ -20,5 +20,4 @@ def dialog_user():
     print(used_letters)
     print(ru_alphabet)
     return letter
-        
 print(dialog_user())
