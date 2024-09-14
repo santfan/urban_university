@@ -19,6 +19,5 @@ def dialog_user():
             flag = False
     print(used_letters)
     print(ru_alphabet)
-    return letter
-        
+    return letter       
 print(dialog_user())
